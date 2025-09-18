@@ -1,3 +1,5 @@
+- q-developer-quest-tdc-2025
+
 # Email Generator - Gerador de Emails Personalizados
 
 Aplicação Node.js que gera emails personalizados usando PDFs como base de conhecimento e integração com OpenAI.
