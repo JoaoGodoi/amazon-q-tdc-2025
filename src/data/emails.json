@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nome": "João Silva",
+    "email": "joao@exemplo.com",
+    "empresa": "Tech Corp",
+    "cargo": "Desenvolvedor"
+  },
+  {
+    "id": 2,
+    "nome": "Maria Santos",
+    "email": "maria@exemplo.com",
+    "empresa": "Design Studio",
+    "cargo": "Designer"
+  }
+]
